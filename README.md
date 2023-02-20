@@ -1,5 +1,6 @@
 # etl-pipeline-kafka-spark-clickhouse
 
+[Video Demonstration](https://drive.google.com/file/d/1Cx4BZh_Ee3KwHMerFtC1N8Mzqq4kO8Hh/view?usp=sharing)
 
 Follow the steps to create the initial environment - 
 
