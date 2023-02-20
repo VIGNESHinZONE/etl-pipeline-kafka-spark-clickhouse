@@ -93,6 +93,7 @@ Start a kafka broker and create two topics - `blocks_kafka` and `tokens_kafka`. 
 
     
     Q2. Total value of gas every hour
+
         Output will shown on the console directly - 
         ```
         spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.3.1 spark-jobs/total_gas.py
