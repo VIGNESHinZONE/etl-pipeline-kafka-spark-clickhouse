@@ -1,0 +1,5 @@
+*.parquet
+*.ipynb
+*venv
+*etl-venv
+.DS_Store
